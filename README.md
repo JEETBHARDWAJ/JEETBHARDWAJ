@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫  hii i am  jeet bahrdwaj
 🔭 I’m currently pursuing B.Tech C.S.E<br>👨‍💻 I've completed HTML, CSS, and JavaScript From Internshala<br>🌱 I’m currently learning Python Programing Language
 
 
@@ -8,12 +8,12 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jeet Bhardwaj&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jeet Bhardwaj&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet Bhardwaj&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[](https://github-readme-stats.vercel.app/api?username=Jeet Bhardwaj&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+[](https://github-readme-streak-stats.herokuapp.com/?user=Jeet Bhardwaj&theme=radical&hide_border=false)<br/>
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet Bhardwaj&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jeet Bhardwaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[](https://github-profile-trophy.vercel.app/?username=Jeet Bhardwaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
