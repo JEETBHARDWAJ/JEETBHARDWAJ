@@ -2,6 +2,10 @@
 
 <h3 align="left">Hi 👋! My name is Jeet bhardwaj and I'm a CSE Student in Amity university Patan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbhardwaj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeetbhardwaj" alt="jeetbhardwaj" /></a> </p>
+
 ###
 
 <br clear="both">
