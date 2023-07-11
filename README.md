@@ -12,13 +12,15 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JEETBHARDWAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=JEETBHARDWAJ&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JEETBHARDWAJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/JEETBHARDWAJ/count.svg?"  />
@@ -43,7 +45,7 @@
 
 <br clear="both">
 
-<img align="right" height="222" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="391" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
@@ -73,12 +75,6 @@
 
 <div align="center">
   <img height="52" src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
