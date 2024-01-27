@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on a Project for SIH<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I like to explore New technology</p>
+<p align="left">- 🔭 I’m working on a Project for SIH<br>- 📚 I'm currently learning  Java <br>- ⚡ In my free time I like to explore New technology</p>
 
 ###
 
