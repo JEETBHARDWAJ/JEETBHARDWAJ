@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on a Project for SIH<br>- 📚 I'm currently learning  Java <br>- ⚡ In my free time I like to explore New technology</p>
+<p align="left">- 🔭 I’m working to Upgraded version  Jeet 2.o- 📚 I'm currently learning  Java , Full stack Web dev <br>- ⚡ In my free time I like to go GYM </p>
 
 ###
 
