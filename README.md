@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Singh Prince Rinku</h1>
+<h1 align="center">Hi 👋, I'm Jeet Bhardwaj</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 
@@ -11,23 +11,23 @@
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Web Automation**
+- 🔭 I’m currently working on **Social Media**
 
 - 🌱 I’m currently learning **Data Science course**
 
-- 👯 I’m looking to collaborate on **Assistance**
+- 👯 I’m looking to collaborate on **Web3**
 
-- 🤝 I’m looking for help with **A Real life Assistance**
+- 🤝 I’m looking for help with **Backend Developer**
 
-- 👨‍💻 All about me are available at [https://prince-port-me.netlify.app/](https://prince-port-me.netlify.app/)
+- 👨‍💻 All about me are available at _
 
-- 📝 I regularly practice codes on [https://leetcode.com/Singh-Prince-Rinku/](https://leetcode.com/Singh-Prince-Rinku/)
+- 📝 I regularly practice codes on [https://leetcode.com/JEET_BHARDWAJ/)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Automation or Python with their Libraries**
+- 💬 Ask me about **React, Redux and MERN**
 
-- 📫 How to reach me **sahilsingh000578@gmail.com**
+- 📫 How to reach me **bhardwajjeet408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13W76tfRwjCzrRg9ks5-mqjmqJ1asXkWX/view?usp=drive_link](https://drive.google.com/file/d/13W76tfRwjCzrRg9ks5-mqjmqJ1asXkWX/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com)
 
 - ⚡ Fun fact **I think I am Funny**
 
