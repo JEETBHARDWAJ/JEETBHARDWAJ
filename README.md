@@ -1,33 +1,33 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Jeet Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Singh Prince Rinku</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-prince-rinku&label=Profile%20views&color=0e75b6&style=flat" alt="singh-prince-rinku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JEETBHARDWAJ&label=Profile%20views&color=0e75b6&style=flat" alt="JEETBHARDWAJ" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-prince-rinku" alt="singh-prince-rinku" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JEETBHARDWAJ" alt="JEETBHARDWAJ" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/coder_prince04" target="blank"><img src="https://img.shields.io/twitter/follow/coder_prince04?logo=twitter&style=for-the-badge" alt="coder_prince04" /></a> </p>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Social Media**
+- 🔭 I’m currently working on **Web Automation**
 
 - 🌱 I’m currently learning **Data Science course**
 
-- 👯 I’m looking to collaborate on **Web3**
+- 👯 I’m looking to collaborate on **Assistance**
 
-- 🤝 I’m looking for help with **Backend Developer**
+- 🤝 I’m looking for help with **A Real life Assistance**
 
-- 👨‍💻 All about me are available at _
+- 👨‍💻 All about me are available at [https://prince-port-me.netlify.app/](https://prince-port-me.netlify.app/)
 
-- 📝 I regularly practice codes on [https://leetcode.com/JEET_BHARDWAJ/)
+- 📝 I regularly practice codes on [https://leetcode.com/JEETBHARDWAJ/](https://leetcode.com/JEETBHARDWAJ/)
 
-- 💬 Ask me about **React, Redux and MERN**
+- 💬 Ask me about **Machine Learning, Deep Learning, Automation or Python with their Libraries**
 
-- 📫 How to reach me **bhardwajjeet408@gmail.com**
+- 📫 How to reach me **sahilsingh000578@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13W76tfRwjCzrRg9ks5-mqjmqJ1asXkWX/view?usp=drive_link](https://drive.google.com/file/d/13W76tfRwjCzrRg9ks5-mqjmqJ1asXkWX/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Funny**
 
@@ -40,14 +40,14 @@
 <a href="https://codepen.io/@daxkfqhw-the-animator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@daxkfqhw-the-animator" height="30" width="40" /></a>
 <a href="https://dev.to/prince6202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prince6202" height="30" width="40" /></a>
 <a href="https://twitter.com/coder_prince04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder_prince04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/singh-prince-rinku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singh-prince-rinku" height="30" width="40" /></a>
-<a href="https://codesandbox.com/singh-prince-rinku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="singh-prince-rinku" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/JEETBHARDWAJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JEETBHARDWAJ" height="30" width="40" /></a>
+<a href="https://codesandbox.com/JEETBHARDWAJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="JEETBHARDWAJ" height="30" width="40" /></a>
 <a href="https://kaggle.com/singhprincerinku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="singhprincerinku" height="30" width="40" /></a>
 <a href="https://fb.com/prince singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince singh" height="30" width="40" /></a>
 <a href="https://instagram.com/i.tz_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.tz_prince" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kp gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kp gamer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sahilsingh000578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahilsingh000578" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/singh-prince-rinku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh-prince-rinku" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/JEETBHARDWAJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JEETBHARDWAJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,8 +56,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/7hop0princl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="190" alt="7hop0princl" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh-prince-rinku&show_icons=true&locale=en&layout=compact" alt="singh-prince-rinku" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEETBHARDWAJ&show_icons=true&locale=en&layout=compact" alt="JEETBHARDWAJ" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh-prince-rinku&show_icons=true&locale=en" alt="singh-prince-rinku" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JEETBHARDWAJ&show_icons=true&locale=en" alt="JEETBHARDWAJ" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh-prince-rinku&" alt="singh-prince-rinku" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JEETBHARDWAJ&" alt="JEETBHARDWAJ" /></p>
+
