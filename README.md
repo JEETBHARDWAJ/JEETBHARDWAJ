@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Singh Prince Rinku</h1>
+<h1 align="center">Hi 👋, I'm Jeet Bhardwaj</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 
