@@ -11,23 +11,21 @@
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Web Automation**
+- 🔭 I’m currently working on creating ** Social Media (Belle Reve) **
 
-- 🌱 I’m currently learning **Data Science course**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Assistance**
+- 👯 I’m looking to collaborate on **web3**
 
-- 🤝 I’m looking for help with **A Real life Assistance**
-
-- 👨‍💻 All about me are available at [https://prince-port-me.netlify.app/](https://prince-port-me.netlify.app/)
+- 🤝 I’m looking for help with **Redux**
 
 - 📝 I regularly practice codes on [https://leetcode.com/JEETBHARDWAJ/](https://leetcode.com/JEETBHARDWAJ/)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Automation or Python with their Libraries**
+- 💬 Ask me about **React, Redux, Express, Node js, Mongo DB and mysql**
 
-- 📫 How to reach me **sahilsingh000578@gmail.com**
+- 📫 How to reach me **Bhardajjeet408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13W76tfRwjCzrRg9ks5-mqjmqJ1asXkWX/view?usp=drive_link](https://drive.google.com/file/d/13W76tfRwjCzrRg9ks5-mqjmqJ1asXkWX/view?usp=drive_link)
+- 📄 Know about my experiences [)
 
 - ⚡ Fun fact **I think I am Funny**
 
